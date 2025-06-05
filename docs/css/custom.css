@@ -1,0 +1,40 @@
+
+/* ================================
+   Typography: Headings & Text
+================================== */
+
+h1 {
+  font-size: 1.95em; /* default ~2.5em */
+}
+
+h2 {
+  font-size: 1.45em; /* default ~2em */
+  margin-top: 50px;
+}
+
+h3 {
+  font-size: 1.15em; /* default ~1.75em */
+  margin-top: 20px;
+}
+
+main.content {
+  margin-top: 1rem;
+}
+
+.sidebar {
+  margin-top: 1rem;
+}
+
+
+/* ================================
+   Utility Classes
+================================== */
+
+.listing-description {
+  display: none !important;
+}
+
+.listing-filter {
+  display: none !important;
+}
+

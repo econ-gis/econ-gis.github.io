@@ -1,0 +1,26 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  feed: true
+  # - id: posts_2026
+  #   contents: "2026/**/index.qmd"
+  #   sort: "date desc"
+  #   categories: true
+  # - id: posts_2025
+  #   contents: "2025/**/index.qmd"
+  #   sort: "date desc"
+  #   categories: true
+page-layout: full
+title-block-banner: false
+comments: false
+---
+
+\
+A blog by a Japanese PhD student in Economics based in Switzerland <br> 
+日本人経済学博士(PhD)課程のブログ based in スイス

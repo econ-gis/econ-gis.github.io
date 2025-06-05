@@ -1,0 +1,10 @@
+# Default knitr options
+execute:
+  echo: true
+  message: false
+  warning: false
+
+# Default for table of contents
+toc: true
+toc-title: "Table of Contents"
+toc-location: right

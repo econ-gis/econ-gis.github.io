@@ -1,0 +1,30 @@
+---
+title: "Starting a blog"
+date: "2025-06-05"
+# categories: [news, code, analysis, life]
+categories: [news]
+---
+
+## Why write?
+
+I enjoy writing short texts every day. <br>
+Until recently, I've been using Twitter/X for that. But I wanted a space to write in more complete sentences, without thinking about followers. 
+
+
+## What to expect
+
+Topics will likely orbit around:
+
+- What everyday life feels like as a foreigner, a PhD student, and an imposter
+- Applied empirical work in environmental and development economics
+- Spatial and remote sensing data
+- R-based workflows and project design
+- Tools for reproducible research
+
+
+## What not to expect
+
+No personal updates.
+
+If you find something useful here, great. <br>
+If not, that's fine too.

@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A blog by a Japanese PhD student in Economics based in Switzerland  日本人経済学博士(PhD)課程のブログ based in スイス\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStarting a blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 5, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/2025/index.html",
+    "href": "posts/2025/index.html",
+    "title": "Starting a blog",
+    "section": "",
+    "text": "## Test"
+  },
+  {
+    "objectID": "posts/2025/index.html#phd-life",
+    "href": "posts/2025/index.html#phd-life",
+    "title": "Starting a blog",
+    "section": "PhD life",
+    "text": "PhD life\nThis is a post with executable code."
+  },
+  {
+    "objectID": "posts/2025/index.html#code",
+    "href": "posts/2025/index.html#code",
+    "title": "Starting a blog",
+    "section": "Code",
+    "text": "Code\nAAA."
+  },
+  {
+    "objectID": "posts/2025/index.html#test",
+    "href": "posts/2025/index.html#test",
+    "title": "Starting a blog",
+    "section": "Test",
+    "text": "Test\n\ntest\ntest\ntest"
+  },
+  {
+    "objectID": "posts/2025/0605_starting_blog/index.html",
+    "href": "posts/2025/0605_starting_blog/index.html",
+    "title": "Starting a blog",
+    "section": "",
+    "text": "I enjoy writing short texts every day.  Until recently, I’ve been using Twitter/X for that. But I wanted a space to write in more complete sentences, without thinking about followers."
+  },
+  {
+    "objectID": "posts/2025/0605_starting_blog/index.html#why-write",
+    "href": "posts/2025/0605_starting_blog/index.html#why-write",
+    "title": "Starting a blog",
+    "section": "",
+    "text": "I enjoy writing short texts every day.  Until recently, I’ve been using Twitter/X for that. But I wanted a space to write in more complete sentences, without thinking about followers."
+  },
+  {
+    "objectID": "posts/2025/0605_starting_blog/index.html#what-to-expect",
+    "href": "posts/2025/0605_starting_blog/index.html#what-to-expect",
+    "title": "Starting a blog",
+    "section": "What to expect",
+    "text": "What to expect\nTopics will likely orbit around:\n\nWhat everyday life feels like as a foreigner, a PhD student, and an imposter\nApplied empirical work in environmental and development economics\nSpatial and remote sensing data\nR-based workflows and project design\nTools for reproducible research"
+  },
+  {
+    "objectID": "posts/2025/0605_starting_blog/index.html#what-not-to-expect",
+    "href": "posts/2025/0605_starting_blog/index.html#what-not-to-expect",
+    "title": "Starting a blog",
+    "section": "What not to expect",
+    "text": "What not to expect\nNo personal updates.\nIf you find something useful here, great.  If not, that’s fine too."
+  }
+]

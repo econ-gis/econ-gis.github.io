@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  # title: "XXX"
+  site-url: https://econ-gis.github.io/
+  description: "A Japanese Econ PhD Student in CH"
+  open-graph: true
+  draft-mode: unlinked
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme:
+      light: [flatly, css/theme-light.scss]
+      dark: [darkly, css/theme-dark.scss]
+    css: css/custom.css
+    fontsize: 1.0em
+    code-copy: true
+    code-overflow: wrap
+
+webr: 
+  show-startup-message: false
+  show-header-message: false
+  channel-type: 'post-message'
