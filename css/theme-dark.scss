@@ -8,17 +8,17 @@ $font-family-base: 'Montserrat', sans-serif;
 $success: #CE2029 !default;
 
 // Custom Variables
-$dracula: 'Pirata One', cursive;
+$retro: 'Handjet', cursive;
 
 /*-- scss:rules --*/
 #title-block-header.quarto-title-block.default .quarto-title .title {
-  font-family: $dracula;
+  font-family: $retro;
   font-size: $font-size-base * 4;
   text-shadow: 3px 3px 0 rgba(206, 32, 41, 1);
 }
 
 p.subtitle.lead {
-  font-family: $dracula;
+  font-family: $retro;
   font-size: $font-size-base * 3.5;
   margin-top: -20px;
   margin-bottom: 0px;

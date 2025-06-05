@@ -3,15 +3,16 @@ project:
   output-dir: docs
 
 website:
-  # title: "XXX"
+  # title: "econ-gis"
   site-url: https://econ-gis.github.io/
-  description: "A Japanese Econ PhD Student in CH"
+  description: "A blog by a Japanese PhD student in Economics based in Switzerland"
   open-graph: true
   draft-mode: unlinked
   navbar:
     left:
       - text: Home
         href: index.qmd
+  search: true
 
 format:
   html:
@@ -19,7 +20,7 @@ format:
     toc-depth: 3
     theme:
       light: [flatly, css/theme-light.scss]
-      dark: [darkly, css/theme-dark.scss]
+      # dark: [darkly, css/theme-dark.scss]
     css: css/custom.css
     fontsize: 1.0em
     code-copy: true

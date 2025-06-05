@@ -13,13 +13,13 @@ $retro: 'Handjet', cursive;
 /*-- scss:rules --*/
 #title-block-header.quarto-title-block.default .quarto-title .title {
   font-family: $retro;
-  font-size: $font-size-base * 5;
+  font-size: $font-size-base * 4;
   line-height: 0.8;
 }
 
 p.subtitle.lead {
   font-family: $retro;
-  font-size: $font-size-base * 4.5;
+  font-size: $font-size-base * 2;
   margin-top: -18px;
   margin-bottom: 0px;
   padding-top: 0px !important;
