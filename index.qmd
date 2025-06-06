@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: "coordinates & questions"
+subtitle: "in low-resolution thoughts"
 listing:
   contents: posts
   sort: "date desc"

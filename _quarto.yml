@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "econ-gis blog"
+  title: "coordinates & questions"
   site-url: https://econ-gis.github.io/
   description: "A blog by a Japanese PhD student in Economics based in Switzerland"
   open-graph: true
