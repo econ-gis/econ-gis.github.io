@@ -3,15 +3,13 @@ project:
   output-dir: docs
 
 website:
-  # title: "econ-gis"
+  title: "econ-gis blog"
   site-url: https://econ-gis.github.io/
   description: "A blog by a Japanese PhD student in Economics based in Switzerland"
   open-graph: true
   draft-mode: unlinked
   navbar:
-    left:
-      - text: Home
-        href: index.qmd
+    left: []
   search: true
 
 format:
