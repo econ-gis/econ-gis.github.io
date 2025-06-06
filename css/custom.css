@@ -37,8 +37,3 @@ main.content {
 .listing-filter {
   display: none !important;
 }
-
-/* Hide hamburger menu icon */
-.navbar-toggle, .navbar-toggler {
-  display: none !important;
-}
