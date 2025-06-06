@@ -14,21 +14,21 @@ categories: [news]
 I enjoy writing short texts every day. <br>
 Until recently, I've been using Twitter/X for that. But I wanted a space to write in more complete sentences, without thinking about followers. 
 
+And, I don't want to post on my personal website. There are people who view blogging with skepticism, and since I'm in a position where visibility can shape evaluations and outcomes, I'd rather not draw unnecessary attention.
+
 
 ## What to expect
 
 Topics will likely orbit around:
 
-- What everyday life feels like as a foreigner, a PhD student, and an imposter
-- Applied empirical work in environmental and development economics
-- Spatial and remote sensing data
-- R-based workflows and project design
-- Tools for reproducible research
+- What everyday life feels like as a foreigner, non-European, a PhD student, and an imposter
+- Empirical work in environmental and development economics
+- Spatial and remote sensing data (analysis)
+- Efficient/reproducible project management (e.g., Git(Hub), `{renv}`, `{targets}`) that I enjoy
+- Notes or summaries from articles I read (kind of like TILs)
 
 
 ## What not to expect
-
-No personal updates.
 
 If you find something useful here, great. <br>
 If not, that's fine too.
