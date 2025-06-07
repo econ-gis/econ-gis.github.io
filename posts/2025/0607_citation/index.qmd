@@ -1,6 +1,6 @@
 ---
 title: "Nobody cites my paper"
-date: "2025-06-05"
+date: "2025-06-07"
 categories: [research]
 ---
 
