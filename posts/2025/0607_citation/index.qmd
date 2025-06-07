@@ -1,0 +1,13 @@
+---
+title: "Nobody cites my paper"
+date: "2025-06-05"
+categories: [research]
+---
+
+My friend's paper, published in 2023, has already been cited over 20 times.
+
+My own paper, published in 2024, has only been cited twice. The literature is quite niche, but if my paper had been published a few years earlier (first submission was in 2021), I'm fairly confident it would have received 5--10 citations or even more by now because the seminal work in this field seems to have emerged around that time.
+
+It took me, yes, a very, very long time.
+
+(And just to note: his paper was published in a more recognized journal than mine.)
