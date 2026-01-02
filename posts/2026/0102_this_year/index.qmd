@@ -1,0 +1,53 @@
+---
+title: "Reflections on 2025 and Resolutions for 2026: My 2nd and 3rd Year as a PhD Student"
+date: "2026-01-02"
+description: "What I aim to achieve in the 2nd and 3rd year of my PhD"
+categories: 
+  - life
+  - research
+---
+
+\
+
+## Reflections on 2025
+
+In 2025, I completed my first-year coursework. In Switzerland (except for the University of Zurich), these first-year courses take place in Gerzensee (I hope to write a separate post about this experience later). To be honest, it was grueling in some ways.
+
+In September, I started my second year as a PhD student. I served as the sole TA for a master's course, where I gave four lectures on causal inference and empirical project management, followed by supervising student projects. It was a rewarding experience, and I learned a great deal. However, I also realized that I hold very high standards for project management---not only in research but also in general workflows, such as collaborating and coordinating with instructors. I want to improve the course management and organization next year. 
+
+Additionally, in November and December, I submitted proposals to two calls for projects, and presented my work at our brown bag seminar.
+
+Throughout the year (especially from September to December), I gained a better understanding of my weaknesses, both as a researcher and as a person---although I have always been aware of most of them. As a non-European PhD student abroad, I have often felt inadequate regarding my abilities, performance, and output. However, I am pursuing my PhD abroad precisely to grow. I need to embrace these weaknesses and work on overcoming them.
+
+
+## Resolutions for 2026
+
+- Review this post monthly to track my progress
+- Manage and monitor my progress using a Gantt chart
+
+
+### Research
+
+- Submit our current working paper
+- Present at a conference or workshop at least twice (one is already scheduled for late January)
+- Start a project on bound estimation (an application that can serve as a dissertation chapter)
+- Manage RA time and workload more effectively (ensure clearer communication)
+
+
+### Personal/Career
+
+- Improve English skills
+  - Dedicate 15 to 60 minutes every day to study
+  - Attend Toastmasters meetings whenever my schedule permits
+  - Use AI tools effectively to enhance my learning process
+- Improve time management (especially for research)
+- Go to bed by 11 pm and wake up at 5 am every day
+- Go running twice a week 
+- Achieve a sub-4 hour finish at the full marathon in May
+
+
+### Other Outputs 
+
+- Write at least 10 blog posts (covering research, life, career, and other topics; roughly once a month)
+- Publish 2--3 technical posts on my website
+

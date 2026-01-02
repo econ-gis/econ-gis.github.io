@@ -8,9 +8,73 @@
 <title>c.q. blog</title>
 <link>https://econ-gis.github.io/</link>
 <atom:link href="https://econ-gis.github.io/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog by a Japanese PhD student in Economics based in Switzerland</description>
+<description>A blog by a Japanese PhD student in Economics based in Switzerland | スイスで経済学PhDを目指す日本人のブログ</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Thu, 19 Jun 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reflections on 2025 and Resolutions for 2026: My 2nd and 3rd Year as a PhD Student</title>
+  <link>https://econ-gis.github.io/posts/2026/0102_this_year/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><br>
+</p>
+<section id="reflections-on-2025" class="level2">
+<h2 class="anchored" data-anchor-id="reflections-on-2025">Reflections on 2025</h2>
+<p>In 2025, I completed my first-year coursework. In Switzerland (except for the University of Zurich), these first-year courses take place in Gerzensee (I hope to write a separate post about this experience later). To be honest, it was grueling in some ways.</p>
+<p>In September, I started my second year as a PhD student. I served as the sole TA for a master’s course, where I gave four lectures on causal inference and empirical project management, followed by supervising student projects. It was a rewarding experience, and I learned a great deal. However, I also realized that I hold very high standards for project management—not only in research but also in general workflows, such as collaborating and coordinating with instructors. I want to improve the course management and organization next year.</p>
+<p>Additionally, in November and December, I submitted proposals to two calls for projects, and presented my work at our brown bag seminar.</p>
+<p>Throughout the year (especially from September to December), I gained a better understanding of my weaknesses, both as a researcher and as a person—although I have always been aware of most of them. As a non-European PhD student abroad, I have often felt inadequate regarding my abilities, performance, and output. However, I am pursuing my PhD abroad precisely to grow. I need to embrace these weaknesses and work on overcoming them.</p>
+</section>
+<section id="resolutions-for-2026" class="level2">
+<h2 class="anchored" data-anchor-id="resolutions-for-2026">Resolutions for 2026</h2>
+<ul>
+<li>Review this post monthly to track my progress</li>
+<li>Manage and monitor my progress using a Gantt chart</li>
+</ul>
+<section id="research" class="level3">
+<h3 class="anchored" data-anchor-id="research">Research</h3>
+<ul>
+<li>Submit our current working paper</li>
+<li>Present at a conference or workshop at least twice (one is already scheduled for late January)</li>
+<li>Start a project on bound estimation (an application that can serve as a dissertation chapter)</li>
+<li>Manage RA time and workload more effectively (ensure clearer communication)</li>
+</ul>
+</section>
+<section id="personalcareer" class="level3">
+<h3 class="anchored" data-anchor-id="personalcareer">Personal/Career</h3>
+<ul>
+<li>Improve English skills
+<ul>
+<li>Dedicate 15 to 60 minutes every day to study</li>
+<li>Attend Toastmasters meetings whenever my schedule permits</li>
+<li>Use AI tools effectively to enhance my learning process</li>
+</ul></li>
+<li>Improve time management (especially for research)</li>
+<li>Go to bed by 11 pm and wake up at 5 am every day</li>
+<li>Go running twice a week</li>
+<li>Achieve a sub-4 hour finish at the full marathon in May</li>
+</ul>
+</section>
+<section id="other-outputs" class="level3">
+<h3 class="anchored" data-anchor-id="other-outputs">Other Outputs</h3>
+<ul>
+<li>Write at least 10 blog posts (covering research, life, career, and other topics; roughly once a month)</li>
+<li>Publish 2–3 technical posts on my website</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>life</category>
+  <category>research</category>
+  <guid>https://econ-gis.github.io/posts/2026/0102_this_year/</guid>
+  <pubDate>Thu, 01 Jan 2026 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>One economist’s wisdom</title>
   <link>https://econ-gis.github.io/posts/2025/0620_rubinstein_lost_student/</link>

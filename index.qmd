@@ -1,6 +1,7 @@
 ---
 title: "coordinates & questions"
 subtitle: "in low-resolution thoughts"
+# keywords: ["経済学 海外 PhD", "海外大学院 留学", "スイス 博士課程", "スイス 経済学 博士", "スイス 経済学 PhD", "ヨーロッパ 経済学 博士", "ヨーロッパ 経済学 PhD", "海外 PhD 進学"]
 listing:
   contents: posts
   sort: "date desc"
@@ -26,3 +27,4 @@ comments: false
 A blog by a PhD student in Economics based in Switzerland <br> 
 日本人経済学博士(PhD)課程のブログ based in スイス
 
+I enjoy hiking, skiing, and running. Check out my favorite gear **[here](outdoor_gear.qmd)**.
